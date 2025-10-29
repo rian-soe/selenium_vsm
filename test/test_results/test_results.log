@@ -1,0 +1,1389 @@
+[test01.js:11:5 - testLoginFail] Setting up WebDriver
+[test01.js:42:5 - testLoginFail] ❌ Test execution failed
+[test01.js:42:5 - testLoginFail] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:52:34.937Z | test01.js | Failure | [test01.js:42:5 - testLoginFail] ❌ Test execution failed | [test01.js:42:5 - testLoginFail] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+[test02.js:11:5 - testRegisterPassword] Setting up WebDriver
+[test02.js:44:5 - testRegisterPassword] ❌ Test execution failed
+[test02.js:44:5 - testRegisterPassword] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:52:35.344Z | test02.js | Failure | [test02.js:44:5 - testRegisterPassword] ❌ Test execution failed | [test02.js:44:5 - testRegisterPassword] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+[test03.js:11:5 - testConfirmPassword] Setting up WebDriver
+[test03.js:44:5 - testConfirmPassword] ❌ Test execution failed
+[test03.js:44:5 - testConfirmPassword] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:52:35.785Z | test03.js | Failure | [test03.js:44:5 - testConfirmPassword] ❌ Test execution failed | [test03.js:44:5 - testConfirmPassword] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+[test04.js:11:7 - testExistingEmail] Setting up WebDriver
+[test04.js:44:7 - testExistingEmail] ❌ Test execution failed
+[test04.js:44:7 - testExistingEmail] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:52:36.175Z | test04.js | Failure | [test04.js:44:7 - testExistingEmail] ❌ Test execution failed | [test04.js:44:7 - testExistingEmail] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:120:5 - testTourCreate] ❌ spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:52:36.541Z | test05.js | Failure | [test05.js:120:5 - testTourCreate] ❌ spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:52:36.541Z | test05.js | Skipped | Due to failed dependencies
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:97:5 - testInvalidDate] ❌ Test execution failed
+[test06.js:97:5 - testInvalidDate] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:52:36.965Z | test06.js | Failure | [test06.js:97:5 - testInvalidDate] ❌ Test execution failed | [test06.js:97:5 - testInvalidDate] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:52:36.966Z | test07.js | Skipped | Due to failed dependencies
+2025-10-15T07:52:36.967Z | test08.js | Skipped | Due to failed dependencies
+[test01.js:11:5 - testLoginFail] Setting up WebDriver
+[test01.js:42:5 - testLoginFail] ❌ Test execution failed
+[test01.js:42:5 - testLoginFail] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:56:13.313Z | test01.js | Failure | [test01.js:42:5 - testLoginFail] ❌ Test execution failed | [test01.js:42:5 - testLoginFail] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+[test02.js:11:5 - testRegisterPassword] Setting up WebDriver
+[test02.js:44:5 - testRegisterPassword] ❌ Test execution failed
+[test02.js:44:5 - testRegisterPassword] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:56:13.701Z | test02.js | Failure | [test02.js:44:5 - testRegisterPassword] ❌ Test execution failed | [test02.js:44:5 - testRegisterPassword] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+[test03.js:11:5 - testConfirmPassword] Setting up WebDriver
+[test03.js:44:5 - testConfirmPassword] ❌ Test execution failed
+[test03.js:44:5 - testConfirmPassword] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:56:14.086Z | test03.js | Failure | [test03.js:44:5 - testConfirmPassword] ❌ Test execution failed | [test03.js:44:5 - testConfirmPassword] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+[test04.js:11:7 - testExistingEmail] Setting up WebDriver
+[test04.js:44:7 - testExistingEmail] ❌ Test execution failed
+[test04.js:44:7 - testExistingEmail] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:56:14.519Z | test04.js | Failure | [test04.js:44:7 - testExistingEmail] ❌ Test execution failed | [test04.js:44:7 - testExistingEmail] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:120:5 - testTourCreate] ❌ spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:56:14.915Z | test05.js | Failure | [test05.js:120:5 - testTourCreate] ❌ spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:56:14.915Z | test05.js | Skipped | Due to failed dependencies
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:97:5 - testInvalidDate] ❌ Test execution failed
+[test06.js:97:5 - testInvalidDate] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:56:15.321Z | test06.js | Failure | [test06.js:97:5 - testInvalidDate] ❌ Test execution failed | [test06.js:97:5 - testInvalidDate] Error: spawn C:\Users\Administrator\Desktop\NBG\driver\geckodriver.exe ENOENT
+2025-10-15T07:56:15.321Z | test07.js | Skipped | Due to failed dependencies
+2025-10-15T07:56:15.322Z | test08.js | Skipped | Due to failed dependencies
+[test01.js:11:5 - testLoginFail] Setting up WebDriver
+[test01.js:14:5 - testLoginFail] Navigating to application URL
+[test01.js:18:5 - testLoginFail] Attempting to login with invalid credentials
+[test01.js:26:5 - testLoginFail] Submitting login form
+[test01.js:29:5 - testLoginFail] Verifying error message
+[test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test01.js:45:7 - testLoginFail] Closing WebDriver
+2025-10-15T08:04:05.509Z | test01.js | Success | [test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test02.js:11:5 - testRegisterPassword] Setting up WebDriver
+[test02.js:14:5 - testRegisterPassword] Navigating to application URL
+[test02.js:18:5 - testRegisterPassword] Navigating to Sign Up page
+[test02.js:21:5 - testRegisterPassword] Filling registration form with short password
+[test02.js:28:5 - testRegisterPassword] Submitting registration form
+[test02.js:31:5 - testRegisterPassword] Verifying password length error message
+[test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test02.js:47:7 - testRegisterPassword] Closing WebDriver
+2025-10-15T08:05:17.694Z | test02.js | Success | [test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test03.js:11:5 - testConfirmPassword] Setting up WebDriver
+[test03.js:14:5 - testConfirmPassword] Navigating to application URL
+[test03.js:18:5 - testConfirmPassword] Navigating to Sign Up page
+[test03.js:21:5 - testConfirmPassword] Filling registration form with mismatched passwords
+[test03.js:28:5 - testConfirmPassword] Submitting registration form
+[test03.js:31:5 - testConfirmPassword] Verifying password mismatch error message
+[test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test03.js:47:7 - testConfirmPassword] Closing WebDriver
+2025-10-15T08:05:26.818Z | test03.js | Success | [test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test04.js:11:7 - testExistingEmail] Setting up WebDriver
+[test04.js:14:7 - testExistingEmail] Navigating to application URL
+[test04.js:18:7 - testExistingEmail] Navigating to Sign Up page
+[test04.js:21:7 - testExistingEmail] Filling registration form with existing email
+[test04.js:28:7 - testExistingEmail] Submitting registration form
+[test04.js:31:7 - testExistingEmail] Verifying existing email error message
+[test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test04.js:47:9 - testExistingEmail] Closing WebDriver
+2025-10-15T08:05:36.216Z | test04.js | Success | [test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:120:5 - testTourCreate] ❌ File not found: C:\Users\Administrator\Pictures\Screenshots\p3.png
+2025-10-15T08:05:48.705Z | test05.js | Failure | [test05.js:120:5 - testTourCreate] ❌ File not found: C:\Users\Administrator\Pictures\Screenshots\p3.png
+2025-10-15T08:05:48.705Z | test05.js | Skipped | Due to failed dependencies
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:13:5 - testInvalidDate] Navigating to application URL
+[test06.js:17:5 - testInvalidDate] Logging in with valid credentials
+[test06.js:24:5 - testInvalidDate] Navigating to Add Tour page
+[test06.js:27:5 - testInvalidDate] Filling tour details
+[test06.js:47:5 - testInvalidDate] Uploading cover image
+[test06.js:97:5 - testInvalidDate] ❌ Test execution failed
+[test06.js:97:5 - testInvalidDate] Error: File not found: C:\Users\Administrator\Pictures\Screenshots\p3.png
+[test06.js:100:7 - testInvalidDate] Closing WebDriver
+2025-10-15T08:06:55.266Z | test06.js | Failure | [test06.js:97:5 - testInvalidDate] ❌ Test execution failed | [test06.js:97:5 - testInvalidDate] Error: File not found: C:\Users\Administrator\Pictures\Screenshots\p3.png
+2025-10-15T08:06:55.267Z | test07.js | Skipped | Due to failed dependencies
+2025-10-15T08:06:55.267Z | test08.js | Skipped | Due to failed dependencies
+[test01.js:11:5 - testLoginFail] Setting up WebDriver
+[test01.js:14:5 - testLoginFail] Navigating to application URL
+[test01.js:18:5 - testLoginFail] Attempting to login with invalid credentials
+[test01.js:26:5 - testLoginFail] Submitting login form
+[test01.js:29:5 - testLoginFail] Verifying error message
+[test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test01.js:45:7 - testLoginFail] Closing WebDriver
+2025-10-15T08:15:01.301Z | test01.js | Success | [test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test02.js:11:5 - testRegisterPassword] Setting up WebDriver
+[test02.js:14:5 - testRegisterPassword] Navigating to application URL
+[test02.js:18:5 - testRegisterPassword] Navigating to Sign Up page
+[test02.js:21:5 - testRegisterPassword] Filling registration form with short password
+[test02.js:28:5 - testRegisterPassword] Submitting registration form
+[test02.js:31:5 - testRegisterPassword] Verifying password length error message
+[test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test02.js:47:7 - testRegisterPassword] Closing WebDriver
+2025-10-15T08:15:10.849Z | test02.js | Success | [test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test03.js:11:5 - testConfirmPassword] Setting up WebDriver
+[test03.js:14:5 - testConfirmPassword] Navigating to application URL
+[test03.js:18:5 - testConfirmPassword] Navigating to Sign Up page
+[test03.js:21:5 - testConfirmPassword] Filling registration form with mismatched passwords
+[test03.js:28:5 - testConfirmPassword] Submitting registration form
+[test03.js:31:5 - testConfirmPassword] Verifying password mismatch error message
+[test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test03.js:47:7 - testConfirmPassword] Closing WebDriver
+2025-10-15T08:15:21.109Z | test03.js | Success | [test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test04.js:11:7 - testExistingEmail] Setting up WebDriver
+[test04.js:14:7 - testExistingEmail] Navigating to application URL
+[test04.js:18:7 - testExistingEmail] Navigating to Sign Up page
+[test04.js:21:7 - testExistingEmail] Filling registration form with existing email
+[test04.js:28:7 - testExistingEmail] Submitting registration form
+[test04.js:31:7 - testExistingEmail] Verifying existing email error message
+[test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test04.js:47:9 - testExistingEmail] Closing WebDriver
+2025-10-15T08:15:31.178Z | test04.js | Success | [test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:77:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:80:5 - testTourCreate] Submitting tour form
+[test05.js:88:5 - testTourCreate] Verifying tour creation
+[test05.js:120:5 - testTourCreate] ❌ Waiting for element to be located By(xpath, //*[contains(text(), 'Ready to reimage your diversity & equality platform?')])
+Wait timed out after 10128ms
+2025-10-15T08:17:02.599Z | test05.js | Failure | [test05.js:120:5 - testTourCreate] ❌ Waiting for element to be located By(xpath, //*[contains(text(), 'Ready to reimage your diversity & equality platform?')])
+2025-10-15T08:17:02.599Z | test05.js | Skipped | Due to failed dependencies
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:13:5 - testInvalidDate] Navigating to application URL
+[test06.js:17:5 - testInvalidDate] Logging in with valid credentials
+[test06.js:24:5 - testInvalidDate] Navigating to Add Tour page
+[test06.js:27:5 - testInvalidDate] Filling tour details
+[test06.js:47:5 - testInvalidDate] Uploading cover image
+[test06.js:51:5 - testInvalidDate] Adding video and event links
+[test06.js:58:5 - testInvalidDate] Adding tour options
+[test06.js:74:5 - testInvalidDate] Submitting tour form
+[test06.js:84:5 - testInvalidDate] Verifying date validation error
+[test06.js:97:5 - testInvalidDate] ❌ Test execution failed
+[test06.js:97:5 - testInvalidDate] Error: Waiting for element to be located By(css selector, .invalid-feedback)
+Wait timed out after 10198ms
+[test06.js:100:7 - testInvalidDate] Closing WebDriver
+2025-10-15T08:17:22.434Z | test06.js | Failure | [test06.js:97:5 - testInvalidDate] ❌ Test execution failed | [test06.js:97:5 - testInvalidDate] Error: Waiting for element to be located By(css selector, .invalid-feedback)
+2025-10-15T08:17:22.435Z | test07.js | Skipped | Due to failed dependencies
+2025-10-15T08:17:22.435Z | test08.js | Skipped | Due to failed dependencies
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:77:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:80:5 - testTourCreate] Submitting tour form
+[test05.js:88:5 - testTourCreate] Verifying tour creation
+[test05.js:120:5 - testTourCreate] ❌ Waiting for element to be located By(xpath, //*[contains(text(), 'Ready to reimage your diversity & equality platform?')])
+Wait timed out after 10146ms
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:123:5 - testTourCreate] ❌ Waiting for element to be located By(xpath, //*[contains(text(), 'Ready to reimage your diversity & equality platform?')])
+Wait timed out after 10049ms
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:123:5 - testTourCreate] ❌ Waiting for element to be located By(xpath, //*[contains(text(), 'Ready to reimage your diversity & equality platform?')])
+Wait timed out after 10029ms
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:123:5 - testTourCreate] ❌ Waiting for element to be located By(xpath, //*[contains(text(), 'Ready to reimage your diversity & equality platform?')])
+Wait timed out after 10180ms
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:123:5 - testTourCreate] ❌ Waiting for element to be located By(xpath, //*[contains(text(), 'Are you ready to go on a challenge & consensus tour?')])
+Wait timed out after 10144ms
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:123:5 - testTourCreate] ❌ Waiting for element to be located By(xpath, //*[contains(text(), 'Are you ready to go on a challenge & consensus tour?')])
+Wait timed out after 10083ms
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:124:5 - testTourCreate] ❌ Wait condition must be a promise-like object, function, or a Condition object
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:124:5 - testTourCreate] ❌ Wait condition must be a promise-like object, function, or a Condition object
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:124:5 - testTourCreate] ❌ Wait condition must be a promise-like object, function, or a Condition object
+[test01.js:11:5 - testLoginFail] Setting up WebDriver
+[test01.js:14:5 - testLoginFail] Navigating to application URL
+[test01.js:42:5 - testLoginFail] ❌ Test execution failed
+[test01.js:42:5 - testLoginFail] Error: Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+[test01.js:45:7 - testLoginFail] Closing WebDriver
+2025-10-28T03:56:28.898Z | test01.js | Failure | [test01.js:42:5 - testLoginFail] ❌ Test execution failed | [test01.js:42:5 - testLoginFail] Error: Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+[test02.js:11:5 - testRegisterPassword] Setting up WebDriver
+[test02.js:14:5 - testRegisterPassword] Navigating to application URL
+[test02.js:44:5 - testRegisterPassword] ❌ Test execution failed
+[test02.js:44:5 - testRegisterPassword] Error: Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+[test02.js:47:7 - testRegisterPassword] Closing WebDriver
+2025-10-28T03:56:58.915Z | test02.js | Failure | [test02.js:44:5 - testRegisterPassword] ❌ Test execution failed | [test02.js:44:5 - testRegisterPassword] Error: Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+[test03.js:11:5 - testConfirmPassword] Setting up WebDriver
+[test03.js:14:5 - testConfirmPassword] Navigating to application URL
+[test03.js:44:5 - testConfirmPassword] ❌ Test execution failed
+[test03.js:44:5 - testConfirmPassword] Error: Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+[test03.js:47:7 - testConfirmPassword] Closing WebDriver
+2025-10-28T03:57:28.500Z | test03.js | Failure | [test03.js:44:5 - testConfirmPassword] ❌ Test execution failed | [test03.js:44:5 - testConfirmPassword] Error: Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+[test04.js:11:7 - testExistingEmail] Setting up WebDriver
+[test04.js:14:7 - testExistingEmail] Navigating to application URL
+[test04.js:44:7 - testExistingEmail] ❌ Test execution failed
+[test04.js:44:7 - testExistingEmail] Error: Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+[test04.js:47:9 - testExistingEmail] Closing WebDriver
+2025-10-28T03:57:58.310Z | test04.js | Failure | [test04.js:44:7 - testExistingEmail] ❌ Test execution failed | [test04.js:44:7 - testExistingEmail] Error: Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:124:5 - testTourCreate] ❌ Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+2025-10-28T03:58:27.974Z | test05.js | Failure | [test05.js:124:5 - testTourCreate] ❌ Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+2025-10-28T03:58:27.974Z | test05.js | Skipped | Due to failed dependencies
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:13:5 - testInvalidDate] Navigating to application URL
+[test06.js:100:5 - testInvalidDate] ❌ Test execution failed
+[test06.js:100:5 - testInvalidDate] Error: Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+[test06.js:103:7 - testInvalidDate] Closing WebDriver
+2025-10-28T03:58:57.659Z | test06.js | Failure | [test06.js:100:5 - testInvalidDate] ❌ Test execution failed | [test06.js:100:5 - testInvalidDate] Error: Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+2025-10-28T03:58:57.659Z | test07.js | Skipped | Due to failed dependencies
+2025-10-28T03:58:57.660Z | test08.js | Skipped | Due to failed dependencies
+[test01.js:11:5 - testLoginFail] Setting up WebDriver
+[test01.js:14:5 - testLoginFail] Navigating to application URL
+[test01.js:18:5 - testLoginFail] Attempting to login with invalid credentials
+[test01.js:26:5 - testLoginFail] Submitting login form
+[test01.js:29:5 - testLoginFail] Verifying error message
+[test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test01.js:45:7 - testLoginFail] Closing WebDriver
+2025-10-28T04:01:38.478Z | test01.js | Success | [test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test02.js:11:5 - testRegisterPassword] Setting up WebDriver
+[test02.js:14:5 - testRegisterPassword] Navigating to application URL
+[test02.js:18:5 - testRegisterPassword] Navigating to Sign Up page
+[test02.js:21:5 - testRegisterPassword] Filling registration form with short password
+[test02.js:28:5 - testRegisterPassword] Submitting registration form
+[test02.js:31:5 - testRegisterPassword] Verifying password length error message
+[test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test02.js:47:7 - testRegisterPassword] Closing WebDriver
+2025-10-28T04:01:49.620Z | test02.js | Success | [test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test03.js:11:5 - testConfirmPassword] Setting up WebDriver
+[test03.js:14:5 - testConfirmPassword] Navigating to application URL
+[test03.js:18:5 - testConfirmPassword] Navigating to Sign Up page
+[test03.js:21:5 - testConfirmPassword] Filling registration form with mismatched passwords
+[test03.js:28:5 - testConfirmPassword] Submitting registration form
+[test03.js:31:5 - testConfirmPassword] Verifying password mismatch error message
+[test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test03.js:47:7 - testConfirmPassword] Closing WebDriver
+2025-10-28T04:01:59.968Z | test03.js | Success | [test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test04.js:11:7 - testExistingEmail] Setting up WebDriver
+[test04.js:14:7 - testExistingEmail] Navigating to application URL
+[test04.js:18:7 - testExistingEmail] Navigating to Sign Up page
+[test04.js:21:7 - testExistingEmail] Filling registration form with existing email
+[test04.js:28:7 - testExistingEmail] Submitting registration form
+[test04.js:31:7 - testExistingEmail] Verifying existing email error message
+[test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test04.js:47:9 - testExistingEmail] Closing WebDriver
+2025-10-28T04:02:10.616Z | test04.js | Success | [test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:124:5 - testTourCreate] ❌ Wait condition must be a promise-like object, function, or a Condition object
+2025-10-28T04:02:24.519Z | test05.js | Failure | [test05.js:124:5 - testTourCreate] ❌ Wait condition must be a promise-like object, function, or a Condition object
+2025-10-28T04:02:24.519Z | test05.js | Skipped | Due to failed dependencies
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:13:5 - testInvalidDate] Navigating to application URL
+[test06.js:17:5 - testInvalidDate] Logging in with valid credentials
+[test06.js:24:5 - testInvalidDate] Navigating to Add Tour page
+[test06.js:27:5 - testInvalidDate] Filling tour details
+[test06.js:47:5 - testInvalidDate] Uploading cover image
+[test06.js:51:5 - testInvalidDate] Adding video and event links
+[test06.js:58:5 - testInvalidDate] Adding tour options
+[test06.js:77:5 - testInvalidDate] Submitting tour form
+[test06.js:87:5 - testInvalidDate] Verifying date validation error
+[test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test06.js:103:7 - testInvalidDate] Closing WebDriver
+2025-10-28T04:02:35.621Z | test06.js | Success | [test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+2025-10-28T04:02:35.621Z | test07.js | Skipped | Due to failed dependencies
+2025-10-28T04:02:35.622Z | test08.js | Skipped | Due to failed dependencies
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:124:5 - testTourCreate] ❌ Wait condition must be a promise-like object, function, or a Condition object
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:102:5 - testBuyTour] ❌ Test execution failed
+[test07.js:102:5 - testBuyTour] Error: Waiting for element to be located By(xpath, //*[contains(text(), 'Ready to reimage your diversity & equality platform?')])
+Wait timed out after 10179ms
+[test07.js:105:7 - testBuyTour] Closing WebDriver
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:124:5 - testTourCreate] ❌ Waiting for element to be located By(xpath, //*[contains(text(), 'Are you ready to go on a challenge & consensus tour?')])
+Wait timed out after 10149ms
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:101:5 - testTourCreate] ✅ Tour creation verified
+[test05.js:104:5 - testTourCreate] Verifying tour in list
+[test05.js:109:5 - testTourCreate] ✅ Tour found in list
+[test05.js:112:5 - testTourCreate] Verifying tour details page
+[test05.js:119:5 - testTourCreate] ✅ Tour details page verified
+[test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+[test01.js:11:5 - testLoginFail] Setting up WebDriver
+[test01.js:14:5 - testLoginFail] Navigating to application URL
+[test01.js:18:5 - testLoginFail] Attempting to login with invalid credentials
+[test01.js:26:5 - testLoginFail] Submitting login form
+[test01.js:29:5 - testLoginFail] Verifying error message
+[test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test01.js:45:7 - testLoginFail] Closing WebDriver
+2025-10-28T04:15:06.674Z | test01.js | Success | [test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test02.js:11:5 - testRegisterPassword] Setting up WebDriver
+[test02.js:14:5 - testRegisterPassword] Navigating to application URL
+[test02.js:18:5 - testRegisterPassword] Navigating to Sign Up page
+[test02.js:21:5 - testRegisterPassword] Filling registration form with short password
+[test02.js:28:5 - testRegisterPassword] Submitting registration form
+[test02.js:31:5 - testRegisterPassword] Verifying password length error message
+[test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test02.js:47:7 - testRegisterPassword] Closing WebDriver
+2025-10-28T04:15:17.334Z | test02.js | Success | [test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test03.js:11:5 - testConfirmPassword] Setting up WebDriver
+[test03.js:14:5 - testConfirmPassword] Navigating to application URL
+[test03.js:18:5 - testConfirmPassword] Navigating to Sign Up page
+[test03.js:21:5 - testConfirmPassword] Filling registration form with mismatched passwords
+[test03.js:28:5 - testConfirmPassword] Submitting registration form
+[test03.js:31:5 - testConfirmPassword] Verifying password mismatch error message
+[test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test03.js:47:7 - testConfirmPassword] Closing WebDriver
+2025-10-28T04:15:27.864Z | test03.js | Success | [test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test04.js:11:7 - testExistingEmail] Setting up WebDriver
+[test04.js:14:7 - testExistingEmail] Navigating to application URL
+[test04.js:18:7 - testExistingEmail] Navigating to Sign Up page
+[test04.js:21:7 - testExistingEmail] Filling registration form with existing email
+[test04.js:28:7 - testExistingEmail] Submitting registration form
+[test04.js:31:7 - testExistingEmail] Verifying existing email error message
+[test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test04.js:47:9 - testExistingEmail] Closing WebDriver
+2025-10-28T04:15:38.008Z | test04.js | Success | [test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:101:5 - testTourCreate] ✅ Tour creation verified
+[test05.js:104:5 - testTourCreate] Verifying tour in list
+[test05.js:109:5 - testTourCreate] ✅ Tour found in list
+[test05.js:112:5 - testTourCreate] Verifying tour details page
+[test05.js:119:5 - testTourCreate] ✅ Tour details page verified
+[test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+2025-10-28T04:15:53.462Z | test05.js | Success | [test05.js:22:5 - testTourCreate] ✅ Login successful | [test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully | [test05.js:80:5 - testTourCreate] ✅ Media and options added successfully | [test05.js:101:5 - testTourCreate] ✅ Tour creation verified | [test05.js:109:5 - testTourCreate] ✅ Tour found in list | [test05.js:119:5 - testTourCreate] ✅ Tour details page verified | [test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:13:5 - testInvalidDate] Navigating to application URL
+[test06.js:17:5 - testInvalidDate] Logging in with valid credentials
+[test06.js:24:5 - testInvalidDate] Navigating to Add Tour page
+[test06.js:27:5 - testInvalidDate] Filling tour details
+[test06.js:47:5 - testInvalidDate] Uploading cover image
+[test06.js:51:5 - testInvalidDate] Adding video and event links
+[test06.js:58:5 - testInvalidDate] Adding tour options
+[test06.js:77:5 - testInvalidDate] Submitting tour form
+[test06.js:87:5 - testInvalidDate] Verifying date validation error
+[test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test06.js:103:7 - testInvalidDate] Closing WebDriver
+2025-10-28T04:16:05.791Z | test06.js | Success | [test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:102:5 - testBuyTour] ❌ Test execution failed
+[test07.js:102:5 - testBuyTour] Error: Element <input id="userConfirm" class="form-control " name="purchase-confirm" type="text"> could not be scrolled into view
+[test07.js:105:7 - testBuyTour] Closing WebDriver
+2025-10-28T04:16:18.797Z | test07.js | Failure | [test07.js:102:5 - testBuyTour] ❌ Test execution failed | [test07.js:102:5 - testBuyTour] Error: Element <input id="userConfirm" class="form-control " name="purchase-confirm" type="text"> could not be scrolled into view
+2025-10-28T04:16:18.797Z | test07.js | Skipped | Due to failed dependencies
+2025-10-28T04:16:18.799Z | test08.js | Skipped | Due to failed dependencies
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase in modal
+[test07.js:90:1 - testBuyTour] ✅ 'yes' entered into confirmation field
+[test07.js:92:1 - testBuyTour] Submitting purchase by clicking 'Buy' button
+[test07.js:113:5 - testBuyTour] ❌ Test execution failed
+[test07.js:113:5 - testBuyTour] Error: Element <button class="btn btn-secondary px-2" type="button"> is not clickable at point (852,312) because another element <div class="modal-footer"> obscures it
+[test07.js:116:7 - testBuyTour] Closing WebDriver
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase in modal
+[test07.js:90:5 - testBuyTour] ✅ 'yes' entered into confirmation field
+[test07.js:95:5 - testBuyTour] Submitting purchase by clicking 'Buy' button
+[test07.js:115:5 - testBuyTour] ❌ Test execution failed
+[test07.js:115:5 - testBuyTour] Error: until.elementToBeClickable is not a function
+[test07.js:118:7 - testBuyTour] Closing WebDriver
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:102:5 - testBuyTour] ❌ Test execution failed
+[test07.js:102:5 - testBuyTour] Error: Element <input id="userConfirm" class="form-control " name="purchase-confirm" type="text"> could not be scrolled into view
+[test07.js:105:7 - testBuyTour] Closing WebDriver
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:102:5 - testBuyTour] ❌ Test execution failed
+[test07.js:102:5 - testBuyTour] Error: Element <input id="userConfirm" class="form-control " name="purchase-confirm" type="text"> could not be scrolled into view
+[test07.js:105:7 - testBuyTour] Closing WebDriver
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:102:5 - testBuyTour] ❌ Test execution failed
+[test07.js:102:5 - testBuyTour] Error: Element <input id="userConfirm" class="form-control " name="purchase-confirm" type="text"> could not be scrolled into view
+[test07.js:105:7 - testBuyTour] Closing WebDriver
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:102:5 - testBuyTour] ❌ Test execution failed
+[test07.js:102:5 - testBuyTour] Error: Element <input id="userConfirm" class="form-control " name="purchase-confirm" type="text"> could not be scrolled into view
+[test07.js:105:7 - testBuyTour] Closing WebDriver
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:115:5 - testBuyTour] ❌ Test execution failed
+[test07.js:115:5 - testBuyTour] Error: Element <input id="userConfirm" class="form-control " name="purchase-confirm" type="text"> could not be scrolled into view
+[test07.js:118:7 - testBuyTour] Closing WebDriver
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:89:3 - testBuyTour] ✅ Set confirmation input to 'yes'
+[test07.js:94:1 - testBuyTour] Submitting purchase
+[test07.js:113:5 - testBuyTour] ❌ Test execution failed
+[test07.js:113:5 - testBuyTour] Error: Element <button class="btn btn-secondary px-2" type="button"> is not clickable at point (852,322) because another element <div class="modal-footer"> obscures it
+[test07.js:116:7 - testBuyTour] Closing WebDriver
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:89:3 - testBuyTour] ✅ Set confirmation input to 'yes'
+[test07.js:94:1 - testBuyTour] Submitting purchase
+[test07.js:108:3 - testBuyTour] ✅ Clicked submit button successfully
+[test07.js:115:5 - testBuyTour] Verifying purchase completion
+[test07.js:127:5 - testBuyTour] ❌ Test execution failed
+[test07.js:127:5 - testBuyTour] Error: Unable to locate element: Join Tour
+[test07.js:130:7 - testBuyTour] Closing WebDriver
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:89:3 - testBuyTour] ✅ Set confirmation input to 'yes'
+[test07.js:94:1 - testBuyTour] Submitting purchase
+[test07.js:108:3 - testBuyTour] ✅ Clicked submit button successfully
+[test07.js:115:5 - testBuyTour] Verifying purchase completion
+[test07.js:127:5 - testBuyTour] ❌ Test execution failed
+[test07.js:127:5 - testBuyTour] Error: Unable to locate element: Join Tour
+[test07.js:130:7 - testBuyTour] Closing WebDriver
+[test08.js:17:9 - testTourSteps] Setting up WebDriver
+[test08.js:27:9 - testTourSteps] ✅ Fetched Tour ID: 10 for "Testing Tour1"
+[test08.js:31:9 - testTourSteps] Setting initial tour start time
+[test08.js:33:9 - testTourSteps] ✅ Tour initial start time updated
+[test08.js:36:9 - testTourSteps] Navigating to login page
+[test08.js:40:9 - testTourSteps] Entering login credentials
+[test08.js:46:9 - testTourSteps] ✅ Successfully logged in
+[test08.js:49:9 - testTourSteps] Navigating to Tours listing page
+[test08.js:399:9 - testTourSteps] ❌ Test execution failed
+[test08.js:399:9 - testTourSteps] Error: Waiting for element to be located By(xpath, //*[contains(text(), 'Ready to reimage your diversity & equality platform?')])
+Wait timed out after 15206ms
+[test08.js:404:13 - testTourSteps] Closing WebDriver
+[test08.js:17:9 - testTourSteps] Setting up WebDriver
+[test08.js:24:13 - testTourSteps] ❌ Tour with title "Testing Tour1" not found in database
+[test08.js:399:9 - testTourSteps] ❌ Test execution failed
+[test08.js:399:9 - testTourSteps] Error: Tour not found in DB.
+[test08.js:404:13 - testTourSteps] Closing WebDriver
+[test01.js:11:5 - testLoginFail] Setting up WebDriver
+[test01.js:14:5 - testLoginFail] Navigating to application URL
+[test01.js:18:5 - testLoginFail] Attempting to login with invalid credentials
+[test01.js:26:5 - testLoginFail] Submitting login form
+[test01.js:29:5 - testLoginFail] Verifying error message
+[test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test01.js:45:7 - testLoginFail] Closing WebDriver
+2025-10-28T05:12:32.038Z | test01.js | Success | [test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test02.js:11:5 - testRegisterPassword] Setting up WebDriver
+[test02.js:14:5 - testRegisterPassword] Navigating to application URL
+[test02.js:18:5 - testRegisterPassword] Navigating to Sign Up page
+[test02.js:21:5 - testRegisterPassword] Filling registration form with short password
+[test02.js:28:5 - testRegisterPassword] Submitting registration form
+[test02.js:31:5 - testRegisterPassword] Verifying password length error message
+[test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test02.js:47:7 - testRegisterPassword] Closing WebDriver
+2025-10-28T05:12:42.052Z | test02.js | Success | [test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test03.js:11:5 - testConfirmPassword] Setting up WebDriver
+[test03.js:14:5 - testConfirmPassword] Navigating to application URL
+[test03.js:18:5 - testConfirmPassword] Navigating to Sign Up page
+[test03.js:21:5 - testConfirmPassword] Filling registration form with mismatched passwords
+[test03.js:28:5 - testConfirmPassword] Submitting registration form
+[test03.js:31:5 - testConfirmPassword] Verifying password mismatch error message
+[test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test03.js:47:7 - testConfirmPassword] Closing WebDriver
+2025-10-28T05:12:51.747Z | test03.js | Success | [test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test04.js:11:7 - testExistingEmail] Setting up WebDriver
+[test04.js:14:7 - testExistingEmail] Navigating to application URL
+[test04.js:18:7 - testExistingEmail] Navigating to Sign Up page
+[test04.js:21:7 - testExistingEmail] Filling registration form with existing email
+[test04.js:28:7 - testExistingEmail] Submitting registration form
+[test04.js:31:7 - testExistingEmail] Verifying existing email error message
+[test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test04.js:47:9 - testExistingEmail] Closing WebDriver
+2025-10-28T05:13:02.164Z | test04.js | Success | [test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:101:5 - testTourCreate] ✅ Tour creation verified
+[test05.js:104:5 - testTourCreate] Verifying tour in list
+[test05.js:109:5 - testTourCreate] ✅ Tour found in list
+[test05.js:112:5 - testTourCreate] Verifying tour details page
+[test05.js:119:5 - testTourCreate] ✅ Tour details page verified
+[test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+2025-10-28T05:13:18.102Z | test05.js | Success | [test05.js:22:5 - testTourCreate] ✅ Login successful | [test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully | [test05.js:80:5 - testTourCreate] ✅ Media and options added successfully | [test05.js:101:5 - testTourCreate] ✅ Tour creation verified | [test05.js:109:5 - testTourCreate] ✅ Tour found in list | [test05.js:119:5 - testTourCreate] ✅ Tour details page verified | [test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:13:5 - testInvalidDate] Navigating to application URL
+[test06.js:17:5 - testInvalidDate] Logging in with valid credentials
+[test06.js:24:5 - testInvalidDate] Navigating to Add Tour page
+[test06.js:27:5 - testInvalidDate] Filling tour details
+[test06.js:47:5 - testInvalidDate] Uploading cover image
+[test06.js:51:5 - testInvalidDate] Adding video and event links
+[test06.js:58:5 - testInvalidDate] Adding tour options
+[test06.js:77:5 - testInvalidDate] Submitting tour form
+[test06.js:87:5 - testInvalidDate] Verifying date validation error
+[test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test06.js:103:7 - testInvalidDate] Closing WebDriver
+2025-10-28T05:13:30.637Z | test06.js | Success | [test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:89:3 - testBuyTour] ✅ Set confirmation input to 'yes'
+[test07.js:94:1 - testBuyTour] Submitting purchase
+[test07.js:108:3 - testBuyTour] ✅ Clicked submit button successfully
+[test07.js:115:5 - testBuyTour] Verifying purchase completion
+[test07.js:127:5 - testBuyTour] ❌ Test execution failed
+[test07.js:127:5 - testBuyTour] Error: Unable to locate element: Join Tour
+[test07.js:130:7 - testBuyTour] Closing WebDriver
+2025-10-28T05:13:44.449Z | test07.js | Failure | [test07.js:127:5 - testBuyTour] ❌ Test execution failed | [test07.js:127:5 - testBuyTour] Error: Unable to locate element: Join Tour
+2025-10-28T05:13:44.449Z | test07.js | Skipped | Due to failed dependencies
+2025-10-28T05:13:44.450Z | test08.js | Skipped | Due to failed dependencies
+[test01.js:11:5 - testLoginFail] Setting up WebDriver
+[test01.js:14:5 - testLoginFail] Navigating to application URL
+[test01.js:18:5 - testLoginFail] Attempting to login with invalid credentials
+[test01.js:26:5 - testLoginFail] Submitting login form
+[test01.js:29:5 - testLoginFail] Verifying error message
+[test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test01.js:45:7 - testLoginFail] Closing WebDriver
+2025-10-28T05:49:02.137Z | test01.js | Success | [test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test02.js:11:5 - testRegisterPassword] Setting up WebDriver
+[test02.js:14:5 - testRegisterPassword] Navigating to application URL
+[test02.js:18:5 - testRegisterPassword] Navigating to Sign Up page
+[test02.js:21:5 - testRegisterPassword] Filling registration form with short password
+[test02.js:28:5 - testRegisterPassword] Submitting registration form
+[test02.js:31:5 - testRegisterPassword] Verifying password length error message
+[test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test02.js:47:7 - testRegisterPassword] Closing WebDriver
+2025-10-28T05:49:08.776Z | test02.js | Success | [test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test03.js:11:5 - testConfirmPassword] Setting up WebDriver
+[test03.js:14:5 - testConfirmPassword] Navigating to application URL
+[test03.js:18:5 - testConfirmPassword] Navigating to Sign Up page
+[test03.js:21:5 - testConfirmPassword] Filling registration form with mismatched passwords
+[test03.js:28:5 - testConfirmPassword] Submitting registration form
+[test03.js:31:5 - testConfirmPassword] Verifying password mismatch error message
+[test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test03.js:47:7 - testConfirmPassword] Closing WebDriver
+2025-10-28T05:49:15.409Z | test03.js | Success | [test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test04.js:11:7 - testExistingEmail] Setting up WebDriver
+[test04.js:14:7 - testExistingEmail] Navigating to application URL
+[test04.js:18:7 - testExistingEmail] Navigating to Sign Up page
+[test04.js:21:7 - testExistingEmail] Filling registration form with existing email
+[test04.js:28:7 - testExistingEmail] Submitting registration form
+[test04.js:31:7 - testExistingEmail] Verifying existing email error message
+[test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test04.js:47:9 - testExistingEmail] Closing WebDriver
+2025-10-28T05:49:21.901Z | test04.js | Success | [test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:101:5 - testTourCreate] ✅ Tour creation verified
+[test05.js:104:5 - testTourCreate] Verifying tour in list
+[test05.js:109:5 - testTourCreate] ✅ Tour found in list
+[test05.js:112:5 - testTourCreate] Verifying tour details page
+[test05.js:119:5 - testTourCreate] ✅ Tour details page verified
+[test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+2025-10-28T05:49:33.982Z | test05.js | Success | [test05.js:22:5 - testTourCreate] ✅ Login successful | [test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully | [test05.js:80:5 - testTourCreate] ✅ Media and options added successfully | [test05.js:101:5 - testTourCreate] ✅ Tour creation verified | [test05.js:109:5 - testTourCreate] ✅ Tour found in list | [test05.js:119:5 - testTourCreate] ✅ Tour details page verified | [test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:13:5 - testInvalidDate] Navigating to application URL
+[test06.js:17:5 - testInvalidDate] Logging in with valid credentials
+[test06.js:24:5 - testInvalidDate] Navigating to Add Tour page
+[test06.js:27:5 - testInvalidDate] Filling tour details
+[test06.js:47:5 - testInvalidDate] Uploading cover image
+[test06.js:51:5 - testInvalidDate] Adding video and event links
+[test06.js:58:5 - testInvalidDate] Adding tour options
+[test06.js:77:5 - testInvalidDate] Submitting tour form
+[test06.js:87:5 - testInvalidDate] Verifying date validation error
+[test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test06.js:103:7 - testInvalidDate] Closing WebDriver
+2025-10-28T05:49:42.692Z | test06.js | Success | [test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:89:3 - testBuyTour] ✅ Set confirmation input to 'yes'
+[test07.js:94:1 - testBuyTour] Submitting purchase
+[test07.js:108:3 - testBuyTour] ✅ Clicked submit button successfully
+[test07.js:115:5 - testBuyTour] Verifying purchase completion
+[test07.js:127:5 - testBuyTour] ❌ Test execution failed
+[test07.js:127:5 - testBuyTour] Error: Unable to locate element: Join Tour
+[test07.js:130:7 - testBuyTour] Closing WebDriver
+2025-10-28T05:49:54.240Z | test07.js | Failure | [test07.js:127:5 - testBuyTour] ❌ Test execution failed | [test07.js:127:5 - testBuyTour] Error: Unable to locate element: Join Tour
+2025-10-28T05:49:54.240Z | test07.js | Skipped | Due to failed dependencies
+2025-10-28T05:49:54.241Z | test08.js | Skipped | Due to failed dependencies
+[test08.js:17:9 - testTourSteps] Setting up WebDriver
+[test08.js:27:9 - testTourSteps] ✅ Fetched Tour ID: 23 for "Testing Tour1"
+[test08.js:31:9 - testTourSteps] Setting initial tour start time
+[test08.js:33:9 - testTourSteps] ✅ Tour initial start time updated
+[test08.js:36:9 - testTourSteps] Navigating to login page
+[test08.js:40:9 - testTourSteps] Entering login credentials
+[test08.js:46:9 - testTourSteps] ✅ Successfully logged in
+[test08.js:49:9 - testTourSteps] Navigating to Tours listing page
+[test08.js:52:9 - testTourSteps] ✅ Successfully navigated to Tours listing page
+[test08.js:55:9 - testTourSteps] Selecting tour "Testing Tour1"
+[test08.js:60:9 - testTourSteps] ✅ Successfully selected tour "Testing Tour1"
+[test08.js:64:9 - testTourSteps] ✅ Successfully loaded tour details page
+[test08.js:67:9 - testTourSteps] Attempting to join tour
+[test08.js:74:13 - testTourSteps] ✅ Successfully joined tour
+[test08.js:81:9 - testTourSteps] Verifying countdown display
+[test08.js:87:9 - testTourSteps] ✅ Countdown timer is displayed: 
+[test08.js:90:9 - testTourSteps] Waiting for Match 1 questions to appear
+[test08.js:399:9 - testTourSteps] ❌ Test execution failed
+[test08.js:399:9 - testTourSteps] Error: Unable to locate element: //input[@placeholder="Enter your match name"]
+[test08.js:404:13 - testTourSteps] Closing WebDriver
+[test08.js:17:9 - testTourSteps] Setting up WebDriver
+[test08.js:24:13 - testTourSteps] ❌ Tour with title "Testing Tour1" not found in database
+[test08.js:399:9 - testTourSteps] ❌ Test execution failed
+[test08.js:399:9 - testTourSteps] Error: Tour not found in DB.
+[test08.js:404:13 - testTourSteps] Closing WebDriver
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:129:5 - testBuyTour] ❌ Test execution failed
+[test07.js:129:5 - testBuyTour] Error: Reached error page: about:neterror?e=connectionFailure&u=http%3A//localhost%3A8083/&c=UTF-8&d=Firefox%20can%E2%80%99t%20establish%20a%20connection%20to%20the%20server%20at%20localhost%3A8083.
+[test07.js:132:7 - testBuyTour] Closing WebDriver
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:129:5 - testBuyTour] ❌ Test execution failed
+[test07.js:129:5 - testBuyTour] Error: Unable to locate element: Testing Tour1
+[test07.js:132:7 - testBuyTour] Closing WebDriver
+[test01.js:11:5 - testLoginFail] Setting up WebDriver
+[test01.js:14:5 - testLoginFail] Navigating to application URL
+[test01.js:18:5 - testLoginFail] Attempting to login with invalid credentials
+[test01.js:26:5 - testLoginFail] Submitting login form
+[test01.js:29:5 - testLoginFail] Verifying error message
+[test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test01.js:45:7 - testLoginFail] Closing WebDriver
+2025-10-28T06:02:06.257Z | test01.js | Success | [test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test02.js:11:5 - testRegisterPassword] Setting up WebDriver
+[test02.js:14:5 - testRegisterPassword] Navigating to application URL
+[test02.js:18:5 - testRegisterPassword] Navigating to Sign Up page
+[test02.js:21:5 - testRegisterPassword] Filling registration form with short password
+[test02.js:28:5 - testRegisterPassword] Submitting registration form
+[test02.js:31:5 - testRegisterPassword] Verifying password length error message
+[test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test02.js:47:7 - testRegisterPassword] Closing WebDriver
+2025-10-28T06:02:18.622Z | test02.js | Success | [test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test03.js:11:5 - testConfirmPassword] Setting up WebDriver
+[test03.js:14:5 - testConfirmPassword] Navigating to application URL
+[test03.js:18:5 - testConfirmPassword] Navigating to Sign Up page
+[test03.js:21:5 - testConfirmPassword] Filling registration form with mismatched passwords
+[test03.js:28:5 - testConfirmPassword] Submitting registration form
+[test03.js:31:5 - testConfirmPassword] Verifying password mismatch error message
+[test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test03.js:47:7 - testConfirmPassword] Closing WebDriver
+2025-10-28T06:02:29.817Z | test03.js | Success | [test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test04.js:11:7 - testExistingEmail] Setting up WebDriver
+[test04.js:14:7 - testExistingEmail] Navigating to application URL
+[test04.js:18:7 - testExistingEmail] Navigating to Sign Up page
+[test04.js:21:7 - testExistingEmail] Filling registration form with existing email
+[test04.js:28:7 - testExistingEmail] Submitting registration form
+[test04.js:31:7 - testExistingEmail] Verifying existing email error message
+[test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test04.js:47:9 - testExistingEmail] Closing WebDriver
+2025-10-28T06:02:40.887Z | test04.js | Success | [test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:101:5 - testTourCreate] ✅ Tour creation verified
+[test05.js:104:5 - testTourCreate] Verifying tour in list
+[test05.js:109:5 - testTourCreate] ✅ Tour found in list
+[test05.js:112:5 - testTourCreate] Verifying tour details page
+[test05.js:119:5 - testTourCreate] ✅ Tour details page verified
+[test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+2025-10-28T06:02:58.111Z | test05.js | Success | [test05.js:22:5 - testTourCreate] ✅ Login successful | [test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully | [test05.js:80:5 - testTourCreate] ✅ Media and options added successfully | [test05.js:101:5 - testTourCreate] ✅ Tour creation verified | [test05.js:109:5 - testTourCreate] ✅ Tour found in list | [test05.js:119:5 - testTourCreate] ✅ Tour details page verified | [test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:13:5 - testInvalidDate] Navigating to application URL
+[test06.js:17:5 - testInvalidDate] Logging in with valid credentials
+[test06.js:24:5 - testInvalidDate] Navigating to Add Tour page
+[test06.js:27:5 - testInvalidDate] Filling tour details
+[test06.js:47:5 - testInvalidDate] Uploading cover image
+[test06.js:51:5 - testInvalidDate] Adding video and event links
+[test06.js:58:5 - testInvalidDate] Adding tour options
+[test06.js:77:5 - testInvalidDate] Submitting tour form
+[test06.js:87:5 - testInvalidDate] Verifying date validation error
+[test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test06.js:103:7 - testInvalidDate] Closing WebDriver
+2025-10-28T06:03:11.799Z | test06.js | Success | [test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:89:3 - testBuyTour] ✅ Set confirmation input to 'yes'
+[test07.js:94:1 - testBuyTour] Submitting purchase
+[test07.js:108:3 - testBuyTour] ✅ Clicked submit button successfully
+[test07.js:115:5 - testBuyTour] Verifying purchase completion
+[test07.js:129:5 - testBuyTour] ❌ Test execution failed
+[test07.js:129:5 - testBuyTour] Error: joinTourSelector is not defined
+[test07.js:132:7 - testBuyTour] Closing WebDriver
+2025-10-28T06:03:28.170Z | test07.js | Failure | [test07.js:129:5 - testBuyTour] ❌ Test execution failed | [test07.js:129:5 - testBuyTour] Error: joinTourSelector is not defined
+2025-10-28T06:03:28.170Z | test07.js | Skipped | Due to failed dependencies
+2025-10-28T06:03:28.171Z | test08.js | Skipped | Due to failed dependencies
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:129:5 - testBuyTour] ❌ Test execution failed
+[test07.js:129:5 - testBuyTour] Error: Waiting for element to be located By(xpath, //button[contains(text(), 'Purchase Tour')])
+Wait timed out after 10127ms
+[test07.js:132:7 - testBuyTour] Closing WebDriver
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:129:5 - testBuyTour] ❌ Test execution failed
+[test07.js:129:5 - testBuyTour] Error: Waiting for element to be located By(xpath, //button[contains(text(), 'Purchase Tour')])
+Wait timed out after 10000ms
+[test07.js:132:7 - testBuyTour] Closing WebDriver
+[test08.js:17:9 - testTourSteps] Setting up WebDriver
+[test08.js:27:9 - testTourSteps] ✅ Fetched Tour ID: 25 for "Testing Tour1"
+[test08.js:31:9 - testTourSteps] Setting initial tour start time
+[test08.js:33:9 - testTourSteps] ✅ Tour initial start time updated
+[test08.js:36:9 - testTourSteps] Navigating to login page
+[test08.js:40:9 - testTourSteps] Entering login credentials
+[test08.js:46:9 - testTourSteps] ✅ Successfully logged in
+[test08.js:49:9 - testTourSteps] Navigating to Tours listing page
+[test08.js:52:9 - testTourSteps] ✅ Successfully navigated to Tours listing page
+[test08.js:55:9 - testTourSteps] Selecting tour "Testing Tour1"
+[test08.js:60:9 - testTourSteps] ✅ Successfully selected tour "Testing Tour1"
+[test08.js:64:9 - testTourSteps] ✅ Successfully loaded tour details page
+[test08.js:67:9 - testTourSteps] Attempting to join tour
+[test08.js:74:13 - testTourSteps] ✅ Successfully joined tour
+[test08.js:81:9 - testTourSteps] Verifying countdown display
+[test08.js:87:9 - testTourSteps] ✅ Countdown timer is displayed: 
+[test08.js:90:9 - testTourSteps] Waiting for Match 1 questions to appear
+[test08.js:399:9 - testTourSteps] ❌ Test execution failed
+[test08.js:399:9 - testTourSteps] Error: Unable to locate element: //input[@placeholder="Enter your match name"]
+[test08.js:404:13 - testTourSteps] Closing WebDriver
+[test08.js:17:9 - testTourSteps] Setting up WebDriver
+[test08.js:24:13 - testTourSteps] ❌ Tour with title "Testing Tour1" not found in database
+[test08.js:399:9 - testTourSteps] ❌ Test execution failed
+[test08.js:399:9 - testTourSteps] Error: Tour not found in DB.
+[test08.js:404:13 - testTourSteps] Closing WebDriver
+[test01.js:11:5 - testLoginFail] Setting up WebDriver
+[test01.js:14:5 - testLoginFail] Navigating to application URL
+[test01.js:18:5 - testLoginFail] Attempting to login with invalid credentials
+[test01.js:26:5 - testLoginFail] Submitting login form
+[test01.js:29:5 - testLoginFail] Verifying error message
+[test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test01.js:45:7 - testLoginFail] Closing WebDriver
+2025-10-28T06:09:54.749Z | test01.js | Success | [test01.js:36:7 - testLoginFail] ✅ Expected error message 'These credentials do not match our records.' was displayed
+[test02.js:11:5 - testRegisterPassword] Setting up WebDriver
+[test02.js:14:5 - testRegisterPassword] Navigating to application URL
+[test02.js:18:5 - testRegisterPassword] Navigating to Sign Up page
+[test02.js:21:5 - testRegisterPassword] Filling registration form with short password
+[test02.js:28:5 - testRegisterPassword] Submitting registration form
+[test02.js:31:5 - testRegisterPassword] Verifying password length error message
+[test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test02.js:47:7 - testRegisterPassword] Closing WebDriver
+2025-10-28T06:10:07.264Z | test02.js | Success | [test02.js:38:7 - testRegisterPassword] ✅ Expected error message 'The password field must be at least 8 characters.' was displayed
+[test03.js:11:5 - testConfirmPassword] Setting up WebDriver
+[test03.js:14:5 - testConfirmPassword] Navigating to application URL
+[test03.js:18:5 - testConfirmPassword] Navigating to Sign Up page
+[test03.js:21:5 - testConfirmPassword] Filling registration form with mismatched passwords
+[test03.js:28:5 - testConfirmPassword] Submitting registration form
+[test03.js:31:5 - testConfirmPassword] Verifying password mismatch error message
+[test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test03.js:47:7 - testConfirmPassword] Closing WebDriver
+2025-10-28T06:10:19.292Z | test03.js | Success | [test03.js:38:7 - testConfirmPassword] ✅ Expected error message 'The password field confirmation does not match.' was displayed
+[test04.js:11:7 - testExistingEmail] Setting up WebDriver
+[test04.js:14:7 - testExistingEmail] Navigating to application URL
+[test04.js:18:7 - testExistingEmail] Navigating to Sign Up page
+[test04.js:21:7 - testExistingEmail] Filling registration form with existing email
+[test04.js:28:7 - testExistingEmail] Submitting registration form
+[test04.js:31:7 - testExistingEmail] Verifying existing email error message
+[test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test04.js:47:9 - testExistingEmail] Closing WebDriver
+2025-10-28T06:10:29.251Z | test04.js | Success | [test04.js:38:9 - testExistingEmail] ✅ Expected error message 'The email has already been taken.' was displayed
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:101:5 - testTourCreate] ✅ Tour creation verified
+[test05.js:104:5 - testTourCreate] Verifying tour in list
+[test05.js:109:5 - testTourCreate] ✅ Tour found in list
+[test05.js:112:5 - testTourCreate] Verifying tour details page
+[test05.js:119:5 - testTourCreate] ✅ Tour details page verified
+[test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+2025-10-28T06:10:45.092Z | test05.js | Success | [test05.js:22:5 - testTourCreate] ✅ Login successful | [test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully | [test05.js:80:5 - testTourCreate] ✅ Media and options added successfully | [test05.js:101:5 - testTourCreate] ✅ Tour creation verified | [test05.js:109:5 - testTourCreate] ✅ Tour found in list | [test05.js:119:5 - testTourCreate] ✅ Tour details page verified | [test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:13:5 - testInvalidDate] Navigating to application URL
+[test06.js:17:5 - testInvalidDate] Logging in with valid credentials
+[test06.js:24:5 - testInvalidDate] Navigating to Add Tour page
+[test06.js:27:5 - testInvalidDate] Filling tour details
+[test06.js:47:5 - testInvalidDate] Uploading cover image
+[test06.js:51:5 - testInvalidDate] Adding video and event links
+[test06.js:58:5 - testInvalidDate] Adding tour options
+[test06.js:77:5 - testInvalidDate] Submitting tour form
+[test06.js:87:5 - testInvalidDate] Verifying date validation error
+[test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test06.js:103:7 - testInvalidDate] Closing WebDriver
+2025-10-28T06:10:59.051Z | test06.js | Success | [test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:89:3 - testBuyTour] ✅ Set confirmation input to 'yes'
+[test07.js:94:1 - testBuyTour] Submitting purchase
+[test07.js:108:3 - testBuyTour] ✅ Clicked submit button successfully
+[test07.js:132:7 - testBuyTour] Closing WebDriver
+2025-10-28T06:12:56.656Z | test07.js | Success | [test07.js:38:7 - testBuyTour] ✅ Successfully logged in | [test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully | [test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details | [test07.js:89:3 - testBuyTour] ✅ Set confirmation input to 'yes' | [test07.js:108:3 - testBuyTour] ✅ Clicked submit button successfully
+[test08.js:17:9 - testTourSteps] Setting up WebDriver
+[test08.js:27:9 - testTourSteps] ✅ Fetched Tour ID: 26 for "Testing Tour1"
+[test08.js:31:9 - testTourSteps] Setting initial tour start time
+[test08.js:33:9 - testTourSteps] ✅ Tour initial start time updated
+[test08.js:36:9 - testTourSteps] Navigating to login page
+[test08.js:40:9 - testTourSteps] Entering login credentials
+[test08.js:46:9 - testTourSteps] ✅ Successfully logged in
+[test08.js:49:9 - testTourSteps] Navigating to Tours listing page
+[test08.js:52:9 - testTourSteps] ✅ Successfully navigated to Tours listing page
+[test08.js:55:9 - testTourSteps] Selecting tour "Testing Tour1"
+[test08.js:60:9 - testTourSteps] ✅ Successfully selected tour "Testing Tour1"
+[test08.js:64:9 - testTourSteps] ✅ Successfully loaded tour details page
+[test08.js:67:9 - testTourSteps] Attempting to join tour
+[test08.js:74:13 - testTourSteps] ✅ Successfully joined tour
+[test08.js:81:9 - testTourSteps] Verifying countdown display
+[test08.js:87:9 - testTourSteps] ✅ Countdown timer is displayed: 
+[test08.js:90:9 - testTourSteps] Waiting for Match 1 questions to appear
+[test08.js:399:9 - testTourSteps] ❌ Test execution failed
+[test08.js:399:9 - testTourSteps] Error: Unable to locate element: //input[@placeholder="Enter your match name"]
+[test08.js:404:13 - testTourSteps] Closing WebDriver
+2025-10-28T06:14:29.496Z | test08.js | Failure | [test08.js:399:9 - testTourSteps] ❌ Test execution failed | [test08.js:399:9 - testTourSteps] Error: Unable to locate element: //input[@placeholder="Enter your match name"]
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:13:5 - testInvalidDate] Navigating to application URL
+[test06.js:17:5 - testInvalidDate] Logging in with valid credentials
+[test06.js:24:5 - testInvalidDate] Navigating to Add Tour page
+[test06.js:27:5 - testInvalidDate] Filling tour details
+[test06.js:47:5 - testInvalidDate] Uploading cover image
+[test06.js:51:5 - testInvalidDate] Adding video and event links
+[test06.js:58:5 - testInvalidDate] Adding tour options
+[test06.js:77:5 - testInvalidDate] Submitting tour form
+[test06.js:87:5 - testInvalidDate] Verifying date validation error
+[test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test06.js:103:7 - testInvalidDate] Closing WebDriver
+2025-10-28T06:18:53.187Z | test06.js | Success | [test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:129:5 - testBuyTour] ❌ Test execution failed
+[test07.js:129:5 - testBuyTour] Error: Unable to locate element: Testing Tour1
+[test07.js:132:7 - testBuyTour] Closing WebDriver
+2025-10-28T06:19:50.923Z | test07.js | Failure | [test07.js:129:5 - testBuyTour] ❌ Test execution failed | [test07.js:129:5 - testBuyTour] Error: Unable to locate element: Testing Tour1
+2025-10-28T06:19:50.923Z | test07.js | Skipped | Due to failed dependencies
+[test08.js:17:9 - testTourSteps] Setting up WebDriver
+[test08.js:24:13 - testTourSteps] ❌ Tour with title "Testing Tour1" not found in database
+[test08.js:399:9 - testTourSteps] ❌ Test execution failed
+[test08.js:399:9 - testTourSteps] Error: Tour not found in DB.
+[test08.js:404:13 - testTourSteps] Closing WebDriver
+2025-10-28T06:20:00.156Z | test08.js | Failure | [test08.js:24:13 - testTourSteps] ❌ Tour with title "Testing Tour1" not found in database | [test08.js:399:9 - testTourSteps] ❌ Test execution failed | [test08.js:399:9 - testTourSteps] Error: Tour not found in DB.
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:101:5 - testTourCreate] ✅ Tour creation verified
+[test05.js:104:5 - testTourCreate] Verifying tour in list
+[test05.js:109:5 - testTourCreate] ✅ Tour found in list
+[test05.js:112:5 - testTourCreate] Verifying tour details page
+[test05.js:119:5 - testTourCreate] ✅ Tour details page verified
+[test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+2025-10-28T06:21:45.077Z | test05.js | Success | [test05.js:22:5 - testTourCreate] ✅ Login successful | [test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully | [test05.js:80:5 - testTourCreate] ✅ Media and options added successfully | [test05.js:101:5 - testTourCreate] ✅ Tour creation verified | [test05.js:109:5 - testTourCreate] ✅ Tour found in list | [test05.js:119:5 - testTourCreate] ✅ Tour details page verified | [test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:13:5 - testInvalidDate] Navigating to application URL
+[test06.js:17:5 - testInvalidDate] Logging in with valid credentials
+[test06.js:24:5 - testInvalidDate] Navigating to Add Tour page
+[test06.js:27:5 - testInvalidDate] Filling tour details
+[test06.js:47:5 - testInvalidDate] Uploading cover image
+[test06.js:51:5 - testInvalidDate] Adding video and event links
+[test06.js:58:5 - testInvalidDate] Adding tour options
+[test06.js:77:5 - testInvalidDate] Submitting tour form
+[test06.js:87:5 - testInvalidDate] Verifying date validation error
+[test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test06.js:103:7 - testInvalidDate] Closing WebDriver
+2025-10-28T06:22:19.909Z | test06.js | Success | [test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:89:3 - testBuyTour] ✅ Set confirmation input to 'yes'
+[test07.js:94:1 - testBuyTour] Submitting purchase
+[test07.js:108:3 - testBuyTour] ✅ Clicked submit button successfully
+[test07.js:132:7 - testBuyTour] Closing WebDriver
+2025-10-28T06:24:08.129Z | test07.js | Success | [test07.js:38:7 - testBuyTour] ✅ Successfully logged in | [test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully | [test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details | [test07.js:89:3 - testBuyTour] ✅ Set confirmation input to 'yes' | [test07.js:108:3 - testBuyTour] ✅ Clicked submit button successfully
+[test08.js:17:9 - testTourSteps] Setting up WebDriver
+[test08.js:27:9 - testTourSteps] ✅ Fetched Tour ID: 27 for "Testing Tour1"
+[test08.js:31:9 - testTourSteps] Setting initial tour start time
+[test08.js:33:9 - testTourSteps] ✅ Tour initial start time updated
+[test08.js:36:9 - testTourSteps] Navigating to login page
+[test08.js:40:9 - testTourSteps] Entering login credentials
+[test08.js:46:9 - testTourSteps] ✅ Successfully logged in
+[test08.js:49:9 - testTourSteps] Navigating to Tours listing page
+[test08.js:52:9 - testTourSteps] ✅ Successfully navigated to Tours listing page
+[test08.js:55:9 - testTourSteps] Selecting tour "Testing Tour1"
+[test08.js:60:9 - testTourSteps] ✅ Successfully selected tour "Testing Tour1"
+[test08.js:64:9 - testTourSteps] ✅ Successfully loaded tour details page
+[test08.js:67:9 - testTourSteps] Attempting to join tour
+[test08.js:74:13 - testTourSteps] ✅ Successfully joined tour
+[test08.js:81:9 - testTourSteps] Verifying countdown display
+[test08.js:87:9 - testTourSteps] ✅ Countdown timer is displayed: 
+[test08.js:90:9 - testTourSteps] Waiting for Match 1 questions to appear
+[test08.js:399:9 - testTourSteps] ❌ Test execution failed
+[test08.js:399:9 - testTourSteps] Error: Unable to locate element: //input[@placeholder="Enter your match name"]
+[test08.js:404:13 - testTourSteps] Closing WebDriver
+2025-10-28T06:26:12.349Z | test08.js | Failure | [test08.js:399:9 - testTourSteps] ❌ Test execution failed | [test08.js:399:9 - testTourSteps] Error: Unable to locate element: //input[@placeholder="Enter your match name"]
+[test05.js:10:5 - testTourCreate] Starting tour creation test
+[test05.js:16:5 - testTourCreate] Logging in with valid credentials
+[test05.js:22:5 - testTourCreate] ✅ Login successful
+[test05.js:25:5 - testTourCreate] Navigating to Add Tour page
+[test05.js:29:5 - testTourCreate] Filling tour details
+[test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully
+[test05.js:51:5 - testTourCreate] Adding media and options
+[test05.js:80:5 - testTourCreate] ✅ Media and options added successfully
+[test05.js:83:5 - testTourCreate] Submitting tour form
+[test05.js:91:5 - testTourCreate] Verifying tour creation
+[test05.js:101:5 - testTourCreate] ✅ Tour creation verified
+[test05.js:104:5 - testTourCreate] Verifying tour in list
+[test05.js:109:5 - testTourCreate] ✅ Tour found in list
+[test05.js:112:5 - testTourCreate] Verifying tour details page
+[test05.js:119:5 - testTourCreate] ✅ Tour details page verified
+[test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+2025-10-28T06:37:04.432Z | test05.js | Success | [test05.js:22:5 - testTourCreate] ✅ Login successful | [test05.js:48:5 - testTourCreate] ✅ Tour details filled successfully | [test05.js:80:5 - testTourCreate] ✅ Media and options added successfully | [test05.js:101:5 - testTourCreate] ✅ Tour creation verified | [test05.js:109:5 - testTourCreate] ✅ Tour found in list | [test05.js:119:5 - testTourCreate] ✅ Tour details page verified | [test05.js:121:5 - testTourCreate] ✅ Tour creation test completed successfully
+[test06.js:10:5 - testInvalidDate] Setting up WebDriver
+[test06.js:13:5 - testInvalidDate] Navigating to application URL
+[test06.js:17:5 - testInvalidDate] Logging in with valid credentials
+[test06.js:24:5 - testInvalidDate] Navigating to Add Tour page
+[test06.js:27:5 - testInvalidDate] Filling tour details
+[test06.js:47:5 - testInvalidDate] Uploading cover image
+[test06.js:51:5 - testInvalidDate] Adding video and event links
+[test06.js:58:5 - testInvalidDate] Adding tour options
+[test06.js:77:5 - testInvalidDate] Submitting tour form
+[test06.js:87:5 - testInvalidDate] Verifying date validation error
+[test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test06.js:103:7 - testInvalidDate] Closing WebDriver
+2025-10-28T06:38:41.078Z | test06.js | Success | [test06.js:94:7 - testInvalidDate] ✅ Expected error message 'The tour date field must be a date after today.' was displayed
+[test07.js:10:5 - testBuyTour] Setting up WebDriver
+[test07.js:13:5 - testBuyTour] Navigating to application URL
+[test07.js:17:5 - testBuyTour] Navigating to login page
+[test07.js:21:5 - testBuyTour] Entering login credentials
+[test07.js:28:5 - testBuyTour] Submitting login form
+[test07.js:31:5 - testBuyTour] Verifying successful login
+[test07.js:38:7 - testBuyTour] ✅ Successfully logged in
+[test07.js:44:5 - testBuyTour] Navigating to Tours page
+[test07.js:49:5 - testBuyTour] Verifying Tours page load
+[test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully
+[test07.js:61:5 - testBuyTour] Selecting test tour
+[test07.js:67:5 - testBuyTour] Verifying tour details page
+[test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details
+[test07.js:77:5 - testBuyTour] Purchasing tour
+[test07.js:81:5 - testBuyTour] Confirming purchase
+[test07.js:89:3 - testBuyTour] ✅ Set confirmation input to 'yes'
+[test07.js:94:1 - testBuyTour] Submitting purchase
+[test07.js:108:3 - testBuyTour] ✅ Clicked submit button successfully
+[test07.js:132:7 - testBuyTour] Closing WebDriver
+2025-10-28T06:39:30.292Z | test07.js | Success | [test07.js:38:7 - testBuyTour] ✅ Successfully logged in | [test07.js:56:7 - testBuyTour] ✅ Tours page loaded successfully | [test07.js:72:7 - testBuyTour] ✅ Successfully navigated to tour details | [test07.js:89:3 - testBuyTour] ✅ Set confirmation input to 'yes' | [test07.js:108:3 - testBuyTour] ✅ Clicked submit button successfully
+[test08.js:17:9 - testTourSteps] Setting up WebDriver
+[test08.js:27:9 - testTourSteps] ✅ Fetched Tour ID: 28 for "Testing Tour1"
+[test08.js:31:9 - testTourSteps] Setting initial tour start time
+[database_utils.js:12:9 - updateTourStartTime] DB: Connected to database.
+[database_utils.js:24:13 - updateTourStartTime] DB: Tour 28 start date updated to 2025-10-28 and time to 13:10:35.
+[database_utils.js:36:13 - updateTourStartTime] DB: Disconnected from database.
+[test08.js:33:9 - testTourSteps] ✅ Tour initial start time updated
+[test08.js:36:9 - testTourSteps] Navigating to login page
+[test08.js:40:9 - testTourSteps] Entering login credentials
+[test08.js:46:9 - testTourSteps] ✅ Successfully logged in
+[test08.js:49:9 - testTourSteps] Navigating to Tours listing page
+[test08.js:52:9 - testTourSteps] ✅ Successfully navigated to Tours listing page
+[test08.js:55:9 - testTourSteps] Selecting tour "Testing Tour1"
+[test08.js:60:9 - testTourSteps] ✅ Successfully selected tour "Testing Tour1"
+[test08.js:64:9 - testTourSteps] ✅ Successfully loaded tour details page
+[test08.js:67:9 - testTourSteps] Attempting to join tour
+[test08.js:74:13 - testTourSteps] ✅ Successfully joined tour
+[test08.js:81:9 - testTourSteps] Verifying countdown display
+[test08.js:87:9 - testTourSteps] ✅ Countdown timer is displayed: 
+[test08.js:90:9 - testTourSteps] Waiting for Match 1 questions to appear
+[test08.js:399:9 - testTourSteps] ❌ Test execution failed
+[test08.js:399:9 - testTourSteps] Error: Unable to locate element: //input[@placeholder="Enter your match name"]
+[test08.js:404:13 - testTourSteps] Closing WebDriver
+2025-10-28T06:40:49.580Z | test08.js | Failure | [test08.js:399:9 - testTourSteps] ❌ Test execution failed | [test08.js:399:9 - testTourSteps] Error: Unable to locate element: //input[@placeholder="Enter your match name"]
